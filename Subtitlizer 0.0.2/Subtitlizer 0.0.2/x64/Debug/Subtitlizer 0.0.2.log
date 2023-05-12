@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.2\Subtitlizer 0.0.2\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Source.obj : warning LNK4248: unresolved typeref token (01000028) for 'AVDictionary'; image may not run
+  Subtitlizer 0.0.2.vcxproj -> C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.2\bin\Subtitlizer 0.0.2.exe

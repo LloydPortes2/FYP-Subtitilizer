@@ -1,0 +1,10 @@
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/CMakeFiles/Project2.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/CMakeFiles/INSTALL.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/lib/glfw/CMakeFiles/uninstall.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/lib/glfw/CMakeFiles/INSTALL.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/lib/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/lib/glfw/src/CMakeFiles/glfw.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/lib/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/project4/build/lib/glfw/src/CMakeFiles/INSTALL.dir

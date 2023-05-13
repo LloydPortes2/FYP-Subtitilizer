@@ -26,7 +26,7 @@ int main(int argc, const char** argv) {
 
 	//read a new frame and load into texture
 	VideoReaderState vr_state;
-	if (!video_reader_open(&vr_state, "C:\\Users\\porte\\OneDrive\\Pictures\\Camera Roll\\WIN_20230501_18_57_06_Pro.mp4")) {
+	if (!video_reader_open(&vr_state, "C:\\Users\\porte\\OneDrive\\Desktop\\delete me\\file_example_MOV_480_700kB.mov")) {
 		printf("couldn't open file\n");
 		return 1;
 	}
